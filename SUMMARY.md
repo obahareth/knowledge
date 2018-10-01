@@ -7,3 +7,11 @@
 * [Extensions](vscode/extensions.md)
 * [Theme](vscode/theme.md)
 
+## Alfred
+
+* [Plugins](alfred/plugins.md)
+
+## Google Chrome
+
+* [Extensions](google-chrome/extensions.md)
+
