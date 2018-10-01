@@ -1,6 +1,6 @@
 # Plugins
 
-I use [Prezto](https://github.com/sorin-ionescu/prezto) to manage my plugins.
+I use [Prezto](https://github.com/sorin-ionescu/prezto) to manage [my plugins](https://github.com/obahareth/dotfiles).
 
 ### Utility
 
