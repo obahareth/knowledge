@@ -1,4 +1,4 @@
-# Plugins
+# Workflows
 
 Work in progress.
 

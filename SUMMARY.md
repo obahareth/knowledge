@@ -9,7 +9,7 @@
 
 ## Alfred
 
-* [Plugins](alfred/plugins.md)
+* [Workflows](alfred/workflows.md)
 
 ## Google Chrome
 
