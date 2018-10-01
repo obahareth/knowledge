@@ -5,4 +5,5 @@
 ## Visual Studio Code
 
 * [Extensions](vscode/extensions.md)
+* [Theme](vscode/theme.md)
 
