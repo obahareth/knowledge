@@ -2,3 +2,7 @@
 
 * [Introduction](README.md)
 
+## Visual Studio Code
+
+* [Extensions](vscode/extensions.md)
+
