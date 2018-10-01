@@ -14,6 +14,7 @@
 ## Google Chrome
 
 * [Extensions](google-chrome/extensions.md)
+* [Theme](google-chrome/theme.md)
 
 ## Zsh
 
