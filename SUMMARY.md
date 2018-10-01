@@ -15,3 +15,7 @@
 
 * [Extensions](google-chrome/extensions.md)
 
+## Zsh
+
+* [Plugins](zsh/plugins.md)
+
