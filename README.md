@@ -1,6 +1,6 @@
 # Introduction
 
-[My knowledge wiki](https://wiki.omar.engineer).
+[My knowledge wiki](https://wiki.omar.engineer). You can also find [a repository](https://github.com/obahareth/knowledge) mirroring this wiki with Markdown files on GitHub.
 
 This is the beginning of a Gitbook containing everything I know, and it's heavily inspired from [https://github.com/nikitavoloboev/knowledge](https://github.com/nikitavoloboev/knowledge).
 
