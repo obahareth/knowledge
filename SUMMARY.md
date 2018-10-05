@@ -23,4 +23,9 @@
 ## Machine Learning
 
 * [Terminology](machine-learning/terminology.md)
+* [Regression](machine-learning/regression.md)
+
+## Docker
+
+* [Volumes](docker/volumes.md)
 

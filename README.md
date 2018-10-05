@@ -4,7 +4,7 @@
 
 This is the beginning of a Gitbook containing everything I know, and it's heavily inspired from [https://github.com/nikitavoloboev/knowledge](https://github.com/nikitavoloboev/knowledge).
 
-In the left corner you can make searches for what content I already indexed or you can simply explore the tree view to the left.
+You can search using the top right corner or you can simply explore the tree view to the left.
 
 ### Other things I wrote and shared
 
