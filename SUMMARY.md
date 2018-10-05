@@ -24,6 +24,7 @@
 
 * [Terminology](machine-learning/terminology.md)
 * [Regression](machine-learning/regression.md)
+* [Overfitting](machine-learning/overfitting.md)
 
 ## Docker
 
