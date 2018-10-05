@@ -20,3 +20,7 @@
 
 * [Plugins](zsh/plugins.md)
 
+## Machine Learning
+
+* [Terminology](machine-learning/terminology.md)
+
