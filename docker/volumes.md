@@ -2,7 +2,7 @@
 
 ### Mounting
 
-Mounting Docker volumes can result in performance bottlenecks as seen in [this issue](https://github.com/docker/for-mac/issues/77). This also heavily impacts the performance of my [Elixir base16 builder](https://github.com/obahareth/base16-builder-elixir/issues/2).
+Mounting Docker volumes via Docker for Mac can result in performance bottlenecks as seen in [this issue](https://github.com/docker/for-mac/issues/77). This also heavily impacts the performance of my [Elixir base16 builder](https://github.com/obahareth/base16-builder-elixir/issues/2).
 
 On macOS, you can [configure mount consistency](https://docs.docker.com/storage/bind-mounts/#configure-mount-consistency-for-macos) to get better performance on your use case. These are the three available consistencies:
 
