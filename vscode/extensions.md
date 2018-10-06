@@ -29,6 +29,7 @@
 ### Collaboration
 
 * [VS Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) - Real-time collaborative development from the comfort of your favorite tools.
+* [GitHub Pull Requests](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github) - Review and manage GitHub pull requests in Visual Studio Code.
 
 ### Git
 
