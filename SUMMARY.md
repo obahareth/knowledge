@@ -30,3 +30,7 @@
 
 * [Volumes](docker/volumes.md)
 
+## Go
+
+* [Syntax](go/syntax.md)
+
