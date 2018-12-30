@@ -16,6 +16,10 @@
 * [Extensions](google-chrome/extensions.md)
 * [Theme](google-chrome/theme.md)
 
+## Hyper
+
+* [Theme](hyper/theme.md)
+
 ## Fish
 
 * [Plugins](fish/plugins.md)
