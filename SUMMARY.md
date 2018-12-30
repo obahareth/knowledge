@@ -16,9 +16,9 @@
 * [Extensions](google-chrome/extensions.md)
 * [Theme](google-chrome/theme.md)
 
-## Zsh
+## Fish
 
-* [Plugins](zsh/plugins.md)
+* [Plugins](fish/plugins.md)
 
 ## Machine Learning
 
