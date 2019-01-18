@@ -4,7 +4,7 @@
 
 ## Work
 
-* [What I want In a Workplace](work/what-i-want-in-a-workplace.md)
+* [What I Want in a Workplace](work/what-i-want-in-a-workplace.md)
 * [My Stack](my-stack.md)
 
 ## Visual Studio Code

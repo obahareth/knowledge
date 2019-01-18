@@ -1,4 +1,4 @@
-# What I want In a Workplace
+# What I Want in a Workplace
 
 ### I want to do work I'm proud of
 
