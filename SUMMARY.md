@@ -2,6 +2,10 @@
 
 * [Introduction](README.md)
 
+## Work
+
+* [What I want In a Workplace](work/what-i-want-in-a-workplace.md)
+
 ## Visual Studio Code
 
 * [Extensions](vscode/extensions.md)
