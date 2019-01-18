@@ -6,9 +6,11 @@ This is the beginning of a Gitbook containing everything I know, and it's heavil
 
 You can search using the top right corner or you can simply explore the tree view to the left.
 
+You can [ask me anything](https://github.com/obahareth/ama) you want at anytime.
+
 ### Other things I wrote and shared
 
-I also share my knowledge by writing articles [on Medium](https://medium.com/@obahareth) and my [personal website](https://omar.engineer).
+I also share my knowledge by writing articles [on Medium](https://medium.com/@obahareth), on [dev.to](https://dev.to/obahareth), and my [personal website](https://omar.engineer).
 
 I also love writing code that solves various problems I have and I share it all [on GitHub](https://github.com/obahareth).
 
