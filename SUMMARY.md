@@ -1,11 +1,11 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [My Stack](my-stack.md)
 
 ## Work
 
 * [What I Want in a Workplace](work/what-i-want-in-a-workplace.md)
-* [My Stack](my-stack.md)
 
 ## Visual Studio Code
 
