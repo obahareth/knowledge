@@ -47,6 +47,11 @@
 * [Debugger for Unity](https://marketplace.visualstudio.com/items?itemName=unity.unity-debug) - Unity debugger extension.
 * [PHP Debug](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-debug) - Debug support for PHP with XDebug.
 
+### Snippets
+
+* [Ruby on Rails](https://marketplace.visualstudio.com/items?itemName=hridoy.rails-snippets).
+* [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets).
+
 ### Utility
 
 * [Browser Preview](https://github.com/auchenberg/vscode-browser-preview) - A real browser preview inside your editor that you can debug.
