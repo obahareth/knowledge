@@ -5,7 +5,7 @@
 
 ## Work
 
-* [What I Want in a Workplace](work/what-i-want-in-a-workplace.md)
+* [How I Want to Work](work/what-i-want-in-a-workplace.md)
 
 ## Visual Studio Code
 

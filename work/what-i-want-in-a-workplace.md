@@ -1,4 +1,6 @@
-# What I Want in a Workplace
+# How I Want to Work
+
+Being able to work at a place or project that has all of these things is a rare opportunity, and if I get it I would definitely give everything I have to it.
 
 ### I want to do work I'm proud of
 
