@@ -48,6 +48,7 @@
 
 ### Utility
 
+* [Browser Preview](https://github.com/auchenberg/vscode-browser-preview) - A real browser preview inside your editor that you can debug.
 * [advanced-new-file](https://marketplace.visualstudio.com/items?itemName=patbenatar.advanced-new-file) - adds the ability to create files anywhere in your workspace.
 * [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) - Run code in VS Code.
 * [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=editorconfig.editorconfig) - EditorConfig Support for Visual Studio Code.
