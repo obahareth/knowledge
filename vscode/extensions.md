@@ -15,6 +15,7 @@
 * [Ruby](https://marketplace.visualstudio.com/items?itemName=rebornix.ruby) - Provides Ruby language and debugging support for Visual Studio Code.
 * [Rust](https://marketplace.visualstudio.com/items?itemName=kalitaalexey.vscode-rust) - Rust language integration for VSCode.
 * [vscode-elixir](https://marketplace.visualstudio.com/items?itemName=mjmcloug.vscode-elixir) - Elixir support for VSCode.
+* [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) - Great YAML support, including Kubernetes syntax, and lets you find out where you exactly are in the YAML if you have [breadcrumbs](https://code.visualstudio.com/updates/v1_26#_breadcrumbs) enabled.
 
 #### General Editing
 
