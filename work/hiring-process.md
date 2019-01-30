@@ -6,7 +6,7 @@
 
 _After some screening for communication alignment and HR screening_
 
-This would be a simple coding challenge based on a real problem we face at our workplace, it should ideally be doable within 2 hours but I'd give you a whole week because sometimes we as humans get stuck on the silliest matters no matter how long we've been doing something, and because you probably have other priorities.
+This would be a simple coding challenge based on a real problem we face at our workplace; preferably solved in a language/framework we use but not mandatory, it should ideally be doable within 2 hours but I'd give you a whole week because sometimes we as humans get stuck on the silliest matters no matter how long we've been doing something, perhaps you'd like some time to learn the basics of the framework/language we use and try to solve it in it, and because you probably have other priorities.
 
 #### Interview Process
 
@@ -27,4 +27,8 @@ As I described in [How I Want to Work](https://wiki.omar.engineer/work/what-i-wa
 #### Clear Expectations
 
 [HackerRank's 2019 Developer Skills Report](https://research.hackerrank.com/developer-skills/2019) shows that the number one reason to lose candidates is unclear roles, and I've often been put in that situation as well. You join in as a backend developer and you're suddenly asked to do everything \(DevOps, sysadmin, dba, native iOS and Android development, Angular, React, Laravel, Kubernetes, etc.\), this is all too common in developing where specialization is still rare. I've also sadly hired people with unclear expectations in the past and it's something I do not wish on anyone. I would do everything in my power to explain everything a certain role requires and make sure it remains so.
+
+#### Compensation for Work Done During Process
+
+I have been seeing a lot of people saying that candidates should be paid for the work they do during hiring processes, and I think that is a fair point, especially with the idea of letting you work with us on a real problem. If the place I'm hiring for can afford it, this would happen. If not, I would do my best to try and make it happen.
 
