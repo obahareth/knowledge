@@ -6,6 +6,7 @@
 ## Work
 
 * [How I Want to Work](work/what-i-want-in-a-workplace.md)
+* [Hiring Process](work/hiring-process.md)
 
 ## Visual Studio Code
 
