@@ -4,9 +4,9 @@ Color Theme: [Nord](https://marketplace.visualstudio.com/items?itemName=arcticic
 
 Icon Theme: [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme).
 
-Font: [Fira Code](https://github.com/tonsky/FiraCode).
+Font: [Pragmata Pro](https://www.fsd.it/shop/fonts/pragmatapro/).
 
-![](../.gitbook/assets/screen-shot-2018-12-30-at-5.01.51-pm.png)
+![](../.gitbook/assets/screen-shot-2019-03-11-at-4.19.50-pm%20%281%29.png)
 
 
 
