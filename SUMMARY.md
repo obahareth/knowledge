@@ -49,3 +49,8 @@
 
 * [Webpack](web-bundlers/webpack.md)
 
+## Arabic
+
+* [Advice](arabic/advice/README.md)
+  * [نصائح \ تصحيح معتقدات خاطئة \ أمنيات للمبرمجين الجدد](arabic/advice/nsaeh-tshyh-matqdat-khateh-amnyat-llmbrmjyn-aljdd.md)
+
