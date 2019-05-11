@@ -32,6 +32,7 @@ These are the Google Chrome extensions I use \(RIP my RAM\).
 * [Isometric Contributions](https://chrome.google.com/webstore/detail/isometric-contributions/mjoedlfflcchnleknnceiplgaeoegien).
 * [OctoLinker](https://chrome.google.com/webstore/detail/octolinker/jlmafbaeoofdegohdhinkhilhclaklkp).
 * [Refined GitHub](https://chrome.google.com/webstore/detail/refined-github/hlepfoohegkhhmjieoechaddaejaokhf).
+* [Notifier for GitHub](https://github.com/sindresorhus/notifier-for-github).
 
 ### Development
 
