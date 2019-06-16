@@ -30,6 +30,10 @@
 
 * [Plugins](fish/plugins.md)
 
+## Engineering Management
+
+* [Overview](engineering-management/overview.md)
+
 ## Machine Learning
 
 * [Terminology](machine-learning/terminology.md)
