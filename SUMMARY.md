@@ -56,5 +56,6 @@
 ## Arabic
 
 * [Advice](arabic/advice/README.md)
+  * [إدارة المطورين: نبذة](arabic/advice/idarh-almtwryn-nbthh.md)
   * [نصائح \ تصحيح معتقدات خاطئة \ أمنيات للمبرمجين الجدد](arabic/advice/nsaeh-tshyh-matqdat-khateh-amnyat-llmbrmjyn-aljdd.md)
 
