@@ -26,7 +26,7 @@ As I described in [How I Want to Work](https://wiki.omar.engineer/work/what-i-wa
 
 #### Clear Expectations
 
-[HackerRank's 2019 Developer Skills Report](https://research.hackerrank.com/developer-skills/2019) shows that the number one reason to lose candidates is unclear roles, and I've often been put in that situation as well. You join in as a backend developer and you're suddenly asked to do everything \(DevOps, sysadmin, dba, native iOS and Android development, Angular, React, Laravel, Kubernetes, etc.\), this is all too common in developing where specialization is still rare. I've also sadly hired people with unclear expectations in the past and it's something I do not wish on anyone. I would do everything in my power to explain everything a certain role requires and make sure it remains so.
+[HackerRank's 2019 Developer Skills Report](https://research.hackerrank.com/developer-skills/2019) shows that the number one reason to lose candidates is unclear roles, and I've often been put in that situation as well. You join in as a backend developer and you're suddenly asked to do everything \(DevOps, sysadmin, dba, native iOS and Android development, Angular, React, Laravel, Kubernetes, etc.\), this is all too common in developing countries where specialization is still rare. I've also sadly hired people with unclear expectations in the past and it's something I do not wish on anyone. I would do everything in my power to explain everything a certain role requires and make sure it remains so.
 
 #### Compensation for Work Done During Process
 

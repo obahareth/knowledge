@@ -8,7 +8,7 @@
 * [How I Want to Work](work/what-i-want-in-a-workplace.md)
 * [Hiring Process](work/hiring-process.md)
 
-## Visual Studio Code
+## Visual Studio Code <a id="vscode"></a>
 
 * [Extensions](vscode/extensions.md)
 * [Theme](vscode/theme.md)
