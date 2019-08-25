@@ -62,4 +62,11 @@
 * [Advice](arabic/advice/README.md)
   * [إدارة المطورين: نبذة](arabic/advice/idarh-almtwryn-nbthh.md)
   * [نصائح \ تصحيح معتقدات خاطئة \ أمنيات للمبرمجين الجدد](arabic/advice/nsaeh-tshyh-matqdat-khateh-amnyat-llmbrmjyn-aljdd.md)
+* [Learning](arabic/learning/README.md)
+  * [مصادر لتعلم البرمجة و علوم الحاسب](arabic/learning/msadr-ltalm-albrmjh-w-alwm-alhasb.md)
+
+## Learning
+
+* [Programming & Computer Science](learning/programming-and-computer-science/README.md)
+  * [Courses](learning/programming-and-computer-science/courses.md)
 
