@@ -32,3 +32,15 @@ test:
 
 Since Rails by default runs migrations for the `test` environment when you're on `development` , when it tries to run them the `RAILS_ENV` will be `development` so it will actually run all the database actions on the development database again.
 
+Instead ensure that you give specific and unique names for the development and test environments:
+
+```yaml
+development:
+  <<: *default
+  database: my_app_development
+
+test:
+  <<: *default
+  database: my_app_test
+```
+
