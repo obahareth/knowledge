@@ -2,6 +2,10 @@
 
 ### Process
 
+#### Detailed Job Posting
+
+It's very important to have a detailed job posting, this will help candidates know what to expect of your workplace and help you to filter out unsuitable candidates as they will not even apply if the job doesn't suit them. A great example in detailed listings is Basecamp's listings, take a look at their [Head of Marketing](https://m.signalvnoise.com/basecamp-is-hiring-a-head-of-marketing/) example.
+
 #### Simple Coding Challenge
 
 _After some screening for communication alignment and HR screening_
