@@ -8,8 +8,9 @@ I use [Fisher](https://github.com/jorgebucaran/fisher) to manage [my plugins](ht
 
 * ​[autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line.
 * [asdf](https://github.com/asdf-vm/asdf) - One version manager for all my programming languages \(no need to have rvm/nvm/etc.\).
+* [bass](https://github.com/edc/bass) - Make Bash utilities usable in Fish shell.
 
 ### Prompt <a id="prompt"></a>
 
-* [​Pure](https://github.com/rafaelrinaldi/pure) - Pretty, minimal and fast ZSH prompt.
+* [Starship](https://github.com/starship/starship) - Pretty, minimal and fast cross-shell prompt.
 
