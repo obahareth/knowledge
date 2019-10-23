@@ -4,15 +4,15 @@
 
 ### Specific Courses
 
-#### Computer Science Crash Course
+#### [Computer Science Crash Course](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
 
 {% embed url="https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo" %}
 
-#### CS50 By Harvard University
+#### [CS50 By Harvard University](https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA)
 
 {% embed url="https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA" %}
 
-#### Introduction to Computer Science by MIT
+#### [Introduction to Computer Science by MIT](https://www.youtube.com/watch?v=nykOeWgQcHM&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
 
 {% embed url="https://www.youtube.com/watch?v=nykOeWgQcHM&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA" %}
 
@@ -22,11 +22,7 @@
 
 ### Specific Courses
 
-{% embed url="https://www.udacity.com/school-of-programming" %}
-
-
-
-
+* [Udacity - School of Programming](https://www.udacity.com/school-of-programming)
 
 ## General Course Websites
 
@@ -44,9 +40,13 @@
 
 Resources are compiled from various users in these Twitter threads:
 
-{% embed url="https://twitter.com/E7san/status/1164760773857431553" %}
+- [E7san](https://twitter.com/E7san/status/1164760773857431553)
 
-{% embed url="https://twitter.com/sultan\_7raag/status/1164973226092564482" %}
+  {% embed url="https://twitter.com/E7san/status/1164760773857431553" %}
+
+- [sultan_7raag](https://twitter.com/sultan_7raag/status/1164973226092564482)
+
+  {% embed url="https://twitter.com/sultan\_7raag/status/1164973226092564482" %}
 
 
 
