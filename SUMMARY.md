@@ -2,81 +2,50 @@
 
 * [Introduction](README.md)
 * [My Stack](my-stack.md)
-
-## Work
-
-* [How I Want to Work](work/what-i-want-in-a-workplace.md)
-* [Hiring Process](work/hiring-process.md)
-
-## Visual Studio Code <a id="vscode"></a>
-
-* [Extensions](vscode/extensions.md)
-* [Theme](vscode/theme.md)
-
-## Alfred
-
-* [Workflows](alfred/workflows.md)
-
-## Google Chrome
-
-* [Extensions](google-chrome/extensions.md)
-* [Theme](google-chrome/theme.md)
-
-## Hyper
-
-* [Theme](hyper/theme.md)
-
-## Fish
-
-* [Plugins](fish/plugins.md)
-
-## Engineering Management
-
-* [Overview](engineering-management/overview.md)
-
-## Talks
-
-### Software Architecture
-
-- [An Insider's Look at the Technology That Powers Shopify](talks/software-architecture/an-insiders-look-at-the-technology-that-powers-shopify.md)
-- [Building Extensible Platforms](talks/software-architecture/building-extensible-platforms.md)
-
-## Machine Learning
-
-* [Terminology](machine-learning/terminology.md)
-* [Regression](machine-learning/regression.md)
-* [Overfitting](machine-learning/overfitting.md)
-
-## Docker
-
-* [Volumes](docker/volumes-1/README.md)
-  * [Mounting](docker/volumes-1/volumes.md)
-
-## Ruby
-
-* [Ruby on Rails](ruby/ruby-on-rails.md)
-* [Libraries](ruby/libraries.md)
-
-## Go
-
-* [Syntax](go/syntax.md)
-
-## Web Bundlers
-
-* [Webpack](web-bundlers/webpack.md)
-
-## [Awesome Products](awesome-products/README.md)
-
-## Arabic
-
-* [Advice](arabic/advice/README.md)
-  * [إدارة المطورين: نبذة](arabic/advice/idarh-almtwryn-nbthh.md)
-  * [نصائح \ تصحيح معتقدات خاطئة \ أمنيات للمبرمجين الجدد](arabic/advice/nsaeh-tshyh-matqdat-khateh-amnyat-llmbrmjyn-aljdd.md)
-* [Learning](arabic/learning/README.md)
-  * [مصادر لتعلم البرمجة و علوم الحاسب](arabic/learning/msadr-ltalm-albrmjh-w-alwm-alhasb.md)
-
-## Learning
-
-* [Programming & Computer Science](learning/programming-and-computer-science/README.md)
-  * [Courses](learning/programming-and-computer-science/courses.md)
+* [Work](work/README.md)
+  * [How I Want to Work](work/what-i-want-in-a-workplace.md)
+  * [Hiring Process](work/hiring-process.md)
+* [Apps & Tools](apps-and-tools/README.md)
+  * [Visual Studio Code](apps-and-tools/visual-studio-code/README.md)
+    * [Theme](apps-and-tools/visual-studio-code/theme.md)
+    * [Extensions](apps-and-tools/visual-studio-code/extensions.md)
+  * [Alfred](apps-and-tools/alfred/README.md)
+    * [Workflows](apps-and-tools/alfred/workflows.md)
+  * [Google Chrome](apps-and-tools/google-chrome/README.md)
+    * [Theme](apps-and-tools/google-chrome/theme.md)
+    * [Extensions](apps-and-tools/google-chrome/extensions.md)
+  * [Hyper](apps-and-tools/hyper/README.md)
+    * [Theme](apps-and-tools/hyper/theme.md)
+  * [Fish](apps-and-tools/fish/README.md)
+    * [Plugins](apps-and-tools/fish/plugins.md)
+  * [Docker](apps-and-tools/docker/README.md)
+    * [Volumes](apps-and-tools/docker/volumes-1/README.md)
+      * [Mounting](apps-and-tools/docker/volumes-1/volumes.md)
+  * [Web Bundlers](apps-and-tools/web-bundlers/README.md)
+    * [Webpack](apps-and-tools/web-bundlers/webpack.md)
+* [Engineering Management](engineering-management/README.md)
+  * [Overview](engineering-management/overview.md)
+* [Talks](talks/README.md)
+  * [Software Architecture](talks/software-architecture/README.md)
+    * [An Insider's Look at the Technology That Powers Shopify](talks/software-architecture/an-insiders-look-at-the-technology-that-powers-shopify.md)
+    * [Building Extensible Platforms](talks/software-architecture/building-extensible-platforms.md)
+* [Machine Learning](machine-learning/README.md)
+  * [Terminology](machine-learning/terminology.md)
+  * [Regression](machine-learning/regression.md)
+  * [Overfitting](machine-learning/overfitting.md)
+* [Programming Languages](programming-languages/README.md)
+  * [Go](programming-languages/go/README.md)
+    * [Syntax](programming-languages/go/syntax.md)
+  * [Ruby](programming-languages/ruby/README.md)
+    * [Ruby on Rails](programming-languages/ruby/ruby-on-rails.md)
+    * [Libraries](programming-languages/ruby/libraries.md)
+* [Education](education/README.md)
+  * [Programming & Computer Science](education/programming-and-computer-science/README.md)
+    * [Courses](education/programming-and-computer-science/courses.md)
+* [Arabic Content \| محتوى عربي](arabic/README.md)
+  * [Learning](arabic/learning/README.md)
+    * [مصادر لتعلم البرمجة و علوم الحاسب](arabic/learning/msadr-ltalm-albrmjh-w-alwm-alhasb.md)
+  * [Advice](arabic/advice/README.md)
+    * [إدارة المطورين: نبذة](arabic/advice/idarh-almtwryn-nbthh.md)
+    * [نصائح  تصحيح معتقدات خاطئة  أمنيات للمبرمجين الجدد](arabic/advice/nsaeh-tshyh-matqdat-khateh-amnyat-llmbrmjyn-aljdd.md)
 

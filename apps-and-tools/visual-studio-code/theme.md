@@ -6,7 +6,7 @@ Icon Theme: [Material Icon Theme](https://marketplace.visualstudio.com/items?ite
 
 Font: [Pragmata Pro](https://www.fsd.it/shop/fonts/pragmatapro/).
 
-![](../.gitbook/assets/screen-shot-2019-03-11-at-4.25.22-pm.png)
+![](../../.gitbook/assets/screen-shot-2019-03-11-at-4.25.22-pm.png)
 
 
 
