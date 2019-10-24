@@ -23,6 +23,7 @@
       * [Mounting](apps-and-tools/docker/volumes-1/volumes.md)
   * [Web Bundlers](apps-and-tools/web-bundlers/README.md)
     * [Webpack](apps-and-tools/web-bundlers/webpack.md)
+* [Awesome Products](awesome-products.md)
 * [Engineering Management](engineering-management/README.md)
   * [Overview](engineering-management/overview.md)
 * [Talks](talks/README.md)
