@@ -2,6 +2,8 @@
 
 {% embed url="https://www.youtube.com/watch?v=Th7XN\_\_ltyc" %}
 
+[Talk link](https://www.youtube.com/watch?v=Th7XN__ltyc).
+
 ## Quick Summary
 
 Watched this talk because I thought it was more software architecture related but it turned out to be a very general and high level overview on 4 areas of Shopify's technology. Lots of cool Silk Road. economical, and historical references though.
