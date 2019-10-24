@@ -1,5 +1,7 @@
 # Building Extensible Platforms
 
+{% embed url="https://www.youtube.com/watch?v=GqGNA8GnOOE" %}
+
 ## Platforms
 
 > "Platforms provide a layer of abstraction to simplify otherwise complex tasks."
