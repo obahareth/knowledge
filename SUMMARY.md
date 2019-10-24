@@ -34,6 +34,13 @@
 
 * [Overview](engineering-management/overview.md)
 
+## Talks
+
+### Software Architecture
+
+- [An Insider's Look at the Technology That Powers Shopify](talks/software-architecture/an-insiders-look-at-the-technology-that-powers-shopify.md)
+- [Building Extensible Platforms](talks/software-architecture/building-extensible-platforms.md)
+
 ## Machine Learning
 
 * [Terminology](machine-learning/terminology.md)
@@ -48,6 +55,7 @@
 ## Ruby
 
 * [Ruby on Rails](ruby/ruby-on-rails.md)
+* [Libraries](ruby/libraries.md)
 
 ## Go
 
@@ -56,6 +64,8 @@
 ## Web Bundlers
 
 * [Webpack](web-bundlers/webpack.md)
+
+## [Awesome Products](awesome-products/README.md)
 
 ## Arabic
 
