@@ -43,6 +43,7 @@
       * [Setup](programming-languages/ruby/ruby-on-rails/setup.md)
       * [Gotchas](programming-languages/ruby/ruby-on-rails/gotchas.md)
       * [Helpers](programming-languages/ruby/ruby-on-rails/helpers.md)
+      * [Libraries](programming-languages/ruby/ruby-on-rails/libraries.md)
     * [Libraries](programming-languages/ruby/libraries.md)
 * [Version Control](version-control/README.md)
   * [Git](version-control/git.md)
