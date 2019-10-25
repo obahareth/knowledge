@@ -45,6 +45,7 @@
       * [Gotchas](programming-languages/ruby/ruby-on-rails/gotchas.md)
       * [Helpers](programming-languages/ruby/ruby-on-rails/helpers.md)
       * [Libraries](programming-languages/ruby/ruby-on-rails/libraries.md)
+      * [Routing](programming-languages/ruby/ruby-on-rails/routing.md)
     * [Libraries](programming-languages/ruby/libraries.md)
     * [Snippets](programming-languages/ruby/snippets.md)
 * [Version Control](version-control/README.md)
