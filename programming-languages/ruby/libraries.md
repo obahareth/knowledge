@@ -25,6 +25,14 @@ Libraries that help you build and scale Ruby \(and Rails\) applications.
 
 * [geocoder](https://github.com/alexreisner/geocoder) - Complete Ruby geocoding solution.
 
+## Phones
+
+- [phony](https://github.com/floere/phony) - E164 international phone number normalizing, splitting, formatting. .
+
+## Money
+
+- [money](https://github.com/RubyMoney/money) - A Ruby Library for dealing with money and currency conversion.
+
 ## Linting and Formatting
 
 * [Standard](https://github.com/testdouble/standard) - Ruby style guide with linter & automatic code fixer, based on Rubocop.

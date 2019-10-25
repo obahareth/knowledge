@@ -13,9 +13,17 @@
 
 - [job-iteration](https://github.com/Shopify/job-iteration) - Make background jobs interruptible and resumable by design.
 
+## Countries
+
+- [countries](https://github.com/hexorx/countries) - All sorts of useful information about every country packaged as convenient little country objects. It includes data from ISO 3166 (countries and states/subdivisions ), ISO 4217 (currency), and E.164 (phone numbers).
+
 ## Payments
 
 * [ActiveMerchant](https://github.com/activemerchant/active_merchant) - Payment abstraction library extracted from Shopify.
+
+## Phones
+
+- [phony_rails](https://github.com/joost/phony_rails) - This Gem adds useful methods to your Rails app to validate, display and save phone numbers. It uses the super awesome Phony gem ([floere/phony](https://github.com/floere/phony)).
 
 ## Event-Driven Architecture
 
@@ -31,6 +39,10 @@
 
 * [audited](https://github.com/collectiveidea/audited) - An ORM extension that logs all changes to your Rails models.
 * [paper\_trail](https://github.com/paper-trail-gem/paper_trail) - Track changes to your models, for auditing or versioning. See how a model looked at any stage in its lifecycle, revert it to any version, or restore it after it has been destroyed.
+
+## Localization
+
+- [globalize](https://github.com/globalize/globalize) - Rails I18n de-facto standard library for ActiveRecord model/data translation.
 
 ## Forms
 
