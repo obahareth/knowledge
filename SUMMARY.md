@@ -47,7 +47,10 @@
     * [Libraries](programming-languages/ruby/libraries.md)
     * [Snippets](programming-languages/ruby/snippets.md)
 * [Version Control](version-control/README.md)
-  * [Git](version-control/git.md)
+  * [Git](version-control/git/README.md)
+    * [Conventions](version-control/git/conventions/README.md)
+      * [Conventional Commits](version-control/git/conventions/conventional-commits.md).
+      * [gitmoji](version-control/git/conventions/gitmoji.md).
 * [Education](education/README.md)
   * [Programming & Computer Science](education/programming-and-computer-science/README.md)
     * [Courses](education/programming-and-computer-science/courses.md)
