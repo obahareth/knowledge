@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [My Stack](my-stack.md)
+* [Sharing](sharing.md)
 * [Work](work/README.md)
   * [How I Want to Work](work/what-i-want-in-a-workplace.md)
   * [Hiring Process](work/hiring-process.md)
