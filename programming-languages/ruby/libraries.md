@@ -10,6 +10,10 @@ Libraries that help you build and scale Ruby \(and Rails\) applications.
 
 * [rollout](https://github.com/fetlife/rollout) - Fast feature flags based on Redis.
 
+## Hash Enhancements / Helpers
+
+- [Hashie](https://github.com/intridea/hashie) - Hashie is a collection of classes and mixins that make hashes more powerful.
+
 ## Background Jobs
 
 * [sidekiq](https://github.com/mperham/sidekiq) - Simple, efficient background processing for Ruby
