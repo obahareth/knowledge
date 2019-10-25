@@ -1,6 +1,4 @@
-# Ruby on Rails
-
-### Gotchas
+# Gotchas
 
 #### ActiveRecord
 
