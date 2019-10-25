@@ -25,9 +25,6 @@
 
 - [strong_migrations](https://github.com/ankane/strong_migrations) - Detect potentially dangerous migrations and prevent them from running by default, along with instructions on safer ways to do what you want.
 
-
-
 ## View Helpers
 
-Rails already provides a tun of view helpers (e.g. `number_to_currency`), they're listed [here](https://guides.rubyonrails.org/action_view_overview.html#overview-of-helpers-provided-by-action-view).
-
+Rails already provides a ton of view helpers (e.g. `number_to_currency`), they're listed [here](https://guides.rubyonrails.org/action_view_overview.html#overview-of-helpers-provided-by-action-view).
