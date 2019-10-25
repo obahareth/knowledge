@@ -45,6 +45,7 @@
       * [Helpers](programming-languages/ruby/ruby-on-rails/helpers.md)
       * [Libraries](programming-languages/ruby/ruby-on-rails/libraries.md)
     * [Libraries](programming-languages/ruby/libraries.md)
+    * [Snippets](programming-languages/ruby/snippets.md)
 * [Version Control](version-control/README.md)
   * [Git](version-control/git.md)
 * [Education](education/README.md)
