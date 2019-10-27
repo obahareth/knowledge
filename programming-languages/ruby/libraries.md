@@ -12,7 +12,7 @@ Libraries that help you build and scale Ruby \(and Rails\) applications.
 
 ## Hash Enhancements / Helpers
 
-- [Hashie](https://github.com/intridea/hashie) - Hashie is a collection of classes and mixins that make hashes more powerful.
+* [Hashie](https://github.com/intridea/hashie) - Hashie is a collection of classes and mixins that make hashes more powerful.
 
 ## Background Jobs
 
@@ -27,11 +27,11 @@ Libraries that help you build and scale Ruby \(and Rails\) applications.
 
 ## Phones
 
-- [phony](https://github.com/floere/phony) - E164 international phone number normalizing, splitting, formatting. .
+* [phony](https://github.com/floere/phony) - E164 international phone number normalizing, splitting, formatting. .
 
 ## Money
 
-- [money](https://github.com/RubyMoney/money) - A Ruby Library for dealing with money and currency conversion.
+* [money](https://github.com/RubyMoney/money) - A Ruby Library for dealing with money and currency conversion.
 
 ## Linting and Formatting
 

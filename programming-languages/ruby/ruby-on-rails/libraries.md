@@ -11,11 +11,11 @@
 
 ## ActiveJob
 
-- [job-iteration](https://github.com/Shopify/job-iteration) - Make background jobs interruptible and resumable by design.
+* [job-iteration](https://github.com/Shopify/job-iteration) - Make background jobs interruptible and resumable by design.
 
 ## Countries
 
-- [countries](https://github.com/hexorx/countries) - All sorts of useful information about every country packaged as convenient little country objects. It includes data from ISO 3166 (countries and states/subdivisions ), ISO 4217 (currency), and E.164 (phone numbers).
+* [countries](https://github.com/hexorx/countries) - All sorts of useful information about every country packaged as convenient little country objects. It includes data from ISO 3166 \(countries and states/subdivisions \), ISO 4217 \(currency\), and E.164 \(phone numbers\).
 
 ## Payments
 
@@ -23,7 +23,7 @@
 
 ## Phones
 
-- [phony_rails](https://github.com/joost/phony_rails) - This Gem adds useful methods to your Rails app to validate, display and save phone numbers. It uses the super awesome Phony gem ([floere/phony](https://github.com/floere/phony)).
+* [phony\_rails](https://github.com/joost/phony_rails) - This Gem adds useful methods to your Rails app to validate, display and save phone numbers. It uses the super awesome Phony gem \([floere/phony](https://github.com/floere/phony)\).
 
 ## Event-Driven Architecture
 
@@ -42,7 +42,7 @@
 
 ## Localization
 
-- [globalize](https://github.com/globalize/globalize) - Rails I18n de-facto standard library for ActiveRecord model/data translation.
+* [globalize](https://github.com/globalize/globalize) - Rails I18n de-facto standard library for ActiveRecord model/data translation.
 
 ## Forms
 
@@ -62,5 +62,6 @@
 
 ## Testing
 
-- [shoulda-matchers](https://github.com/thoughtbot/shoulda-matchers) - Simple one-liner tests for common Rails functionality.
-- [letter\_opener](https://github.com/ryanb/letter_opener) - Preview mail in the browser instead of sending.
+* [shoulda-matchers](https://github.com/thoughtbot/shoulda-matchers) - Simple one-liner tests for common Rails functionality.
+* [letter\_opener](https://github.com/ryanb/letter_opener) - Preview mail in the browser instead of sending.
+

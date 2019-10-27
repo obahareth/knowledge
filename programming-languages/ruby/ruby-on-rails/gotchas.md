@@ -1,11 +1,11 @@
 # Gotchas
 
-#### ActiveRecord
+## ActiveRecord
 
 * `find` raises an exception that if not handled, will result in controller endpoints returning 404.
 * `find_by!` is a variant that can be used to get the same behavior of `find` for `find_by`.
 
-#### database.yml
+## database.yml
 
 If you try to have a generic database configuration controlled by environment variables, your database actions will run twice in development.
 

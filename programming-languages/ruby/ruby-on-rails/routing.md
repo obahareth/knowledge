@@ -1,8 +1,8 @@
-# Routes
+# Routing
 
 ## Quick Cheatsheet
 
-*Mostly taken from [devhints](https://devhints.io/rails-routes).*
+_Mostly taken from_ [_devhints_](https://devhints.io/rails-routes)_._
 
 ### Resources
 
@@ -34,9 +34,9 @@ resources :books
 Rails.applications.routes.draw do
   resources :events do
     collection do
-    	post :validate # localhost:3000/events/validate
+        post :validate # localhost:3000/events/validate
     end
-    
+
     member do
       post :publish # localhost:3000/events/1/publish
     end
@@ -110,9 +110,7 @@ scope 'admin', constraints: { subdomain: 'admin' } do
 end
 ```
 
-
-
-## Nested Resources (routes)
+## Nested Resources \(routes\)
 
 Assuming an event has many registrations and we want registration routes to be nested under an event, e.g. `localhost:3000/events/1/registrations`, we can do:
 
@@ -124,11 +122,9 @@ Rails.applications.routes.draw do
 end
 ```
 
-
-
 ## Splitting Up Big Routes Files
 
-*(Mostly taken from [Matt Boldt's blog post](https://mattboldt.com/separate-rails-route-files/))*
+_\(Mostly taken from_ [_Matt Boldt's blog post_](https://mattboldt.com/separate-rails-route-files/)_\)_
 
 [GitLab's route files](https://gitlab.com/gitlab-org/gitlab/tree/master/config/routes) are also a great example.
 

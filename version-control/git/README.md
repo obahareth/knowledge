@@ -9,5 +9,5 @@
 
 Git hook managers are very useful if you want to ensure code is formatted/tests are run before you can commit, and you can even prevent comitting if the fail.
 
-- [overcommit](https://github.com/sds/overcommit) - A fully configurable and extendable Git hook manager.
+* [overcommit](https://github.com/sds/overcommit) - A fully configurable and extendable Git hook manager.
 

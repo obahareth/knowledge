@@ -51,8 +51,8 @@
 * [Version Control](version-control/README.md)
   * [Git](version-control/git/README.md)
     * [Conventions](version-control/git/conventions/README.md)
-      * [Conventional Commits](version-control/git/conventions/conventional-commits.md).
-      * [gitmoji](version-control/git/conventions/gitmoji.md).
+      * [Conventional Commits](version-control/git/conventions/conventional-commits.md)
+      * [gitmoji](version-control/git/conventions/gitmoji.md)
 * [Education](education/README.md)
   * [Programming & Computer Science](education/programming-and-computer-science/README.md)
     * [Courses](education/programming-and-computer-science/courses.md)
@@ -62,4 +62,7 @@
   * [Advice](arabic/advice/README.md)
     * [إدارة المطورين: نبذة](arabic/advice/idarh-almtwryn-nbthh.md)
     * [نصائح  تصحيح معتقدات خاطئة  أمنيات للمبرمجين الجدد](arabic/advice/nsaeh-tshyh-matqdat-khateh-amnyat-llmbrmjyn-aljdd.md)
+* [Biology](biology/README.md)
+  * [Species](biology/species/README.md)
+    * [Ants](biology/species/ants.md)
 
