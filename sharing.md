@@ -20,6 +20,10 @@ I mostly share cat pics or pics from my travels.
 
 My time is limited and I can't often do everything I wish. But I have many ideas and lists so I put all of them [in the open](https://www.notion.so/03b7e9880c26428596228dfb14ee6e47).
 
+## Snippets on [GitHub Gists](https://gist.github.com/obahareth)​ <a id="snippets-on-github-gists"></a>
+
+I things I'm tinkering with, code that I want to embed in articles, and configurations for various tools on GitHub Gist.
+
 ## **Knowledge in** [**this wiki**](https://wiki.omar.engineer/)
 
 I am trying to fill everything I know in this wiki. It can be easily queried with the search at the top right.
