@@ -58,6 +58,7 @@
     * [Courses](education/programming-and-computer-science/courses.md)
   * [Design](education/design/README.md)
     * [Courses and Books](education/design/courses-and-books.md)
+  * [Frontend Development](education/frontend-development/README.md)
 * [Design](design/README.md)
   * [Icons](design/icons/README.md)
     * [Icon Sets](design/icons/icon-sets.md).
