@@ -56,6 +56,11 @@
 * [Education](education/README.md)
   * [Programming & Computer Science](education/programming-and-computer-science/README.md)
     * [Courses](education/programming-and-computer-science/courses.md)
+  * [Design](education/design/README.md)
+    * [Courses and Books](education/design/courses-and-books.md)
+* [Design](design/README.md)
+  * [Icons](design/icons/README.md)
+    * [Icon Sets](design/icons/icon-sets.md).
 * [Arabic Content \| محتوى عربي](arabic/README.md)
   * [Learning](arabic/learning/README.md)
     * [مصادر لتعلم البرمجة و علوم الحاسب](arabic/learning/msadr-ltalm-albrmjh-w-alwm-alhasb.md)
