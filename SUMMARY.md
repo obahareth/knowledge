@@ -27,6 +27,10 @@
 * [Awesome Products](awesome-products.md)
 * [Engineering Management](engineering-management/README.md)
   * [Overview](engineering-management/overview.md)
+* [Software Architecture](software-architecture/README.md)
+  * [Microservices](software-architecture/microservices/README.md).
+  * [Event sourcing](software-architecture/event-sourcing/README.md).
+  * [Serverless](software-architecture/serverless/README.md).
 * [Talks](talks/README.md)
   * [Software Architecture](talks/software-architecture/README.md)
     * [An Insider's Look at the Technology That Powers Shopify](talks/software-architecture/an-insiders-look-at-the-technology-that-powers-shopify.md)
