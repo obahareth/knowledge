@@ -48,4 +48,6 @@ Libraries that help you build and scale Ruby \(and Rails\) applications.
 * [parallel\_tests](https://github.com/grosser/parallel_tests) - Speedup Test::Unit + RSpec + Cucumber + Spinach by running parallel on multiple CPU cores.
 * [database\_cleaner](https://github.com/DatabaseCleaner/database_cleaner) - Strategies for cleaning databases in Ruby. Can be used to ensure a clean state for testing. 
 * [factory\_bot](https://github.com/thoughtbot/factory_bot) - A library for setting up Ruby objects as test data.
+* [airborne](https://github.com/brooklynDev/airborne) - RSpec driven API testing framework.
+* [knapsack](https://github.com/ArturT/knapsack) - Knapsack splits tests across CI nodes and makes sure that tests will run comparable time on each node.
 
