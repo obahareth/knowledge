@@ -14,7 +14,7 @@ I also share my knowledge by writing articles [on Medium](https://medium.com/@ob
 
 I also love writing code that solves various problems I have and I share it all [on GitHub](https://github.com/obahareth).
 
-I share a number of pages, boards, and lists on my (public Notion page)[https://www.notion.so/obahareth/Public-04ad2eb582a448b1ae834249d5ada9b9].
+I share a number of pages, boards, and lists on my [public Notion page](https://www.notion.so/obahareth/Public-04ad2eb582a448b1ae834249d5ada9b9).
 
 ### Make your own wiki
 
