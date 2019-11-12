@@ -27,6 +27,7 @@
 * [DevOps](devops/README.md)
   * [Kubernetes](devops/kubernetes/README.md)
     * [Terminology](devops/kubernetes/terminology/README.md)
+    * [kubectl Cheatsheet](devops/kubernetes/kubectl-commands.md)
     * [Best Practices](devops/kubernetes/best-practices.md)
     * [Ruby on Rails](devops/kubernetes/ruby-on-rails.md)
 * [Awesome Products](awesome-products.md)
