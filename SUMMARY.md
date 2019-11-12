@@ -28,6 +28,7 @@
   * [Kubernetes](devops/kubernetes/README.md)
     * [Terminology](devops/kubernetes/terminology/README.md)
     * [Best Practices](devops/kubernetes/best-practices.md)
+    * [Ruby on Rails](devops/kubernetes/ruby-on-rails.md)
 * [Awesome Products](awesome-products.md)
 * [Engineering Management](engineering-management/README.md)
   * [Overview](engineering-management/overview.md)
