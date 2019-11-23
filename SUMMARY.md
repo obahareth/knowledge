@@ -56,6 +56,7 @@
       * [Helpers](programming-languages/ruby/ruby-on-rails/helpers.md)
       * [Libraries](programming-languages/ruby/ruby-on-rails/libraries.md)
       * [Routing](programming-languages/ruby/ruby-on-rails/routing.md)
+      * [Status Code Symbols](programming-languages/ruby/ruby-on-rails/status-code-symbols.md)
     * [Libraries](programming-languages/ruby/libraries.md)
     * [Snippets](programming-languages/ruby/snippets.md)
 * [Version Control](version-control/README.md)
