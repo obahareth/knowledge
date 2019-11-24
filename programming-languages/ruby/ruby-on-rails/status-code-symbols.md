@@ -1,13 +1,12 @@
 # Status Code Symbols
 
-*Taken from this [GitHub Gist](https://gist.github.com/mlanett/a31c340b132ddefa9cca)*
-
+_Taken from this_ [_GitHub Gist_](https://gist.github.com/mlanett/a31c340b132ddefa9cca)
 
 ## 1xx Informational
 
 100 `:continue`  
 101 `:switching_protocols`  
-102 `:processing`  
+102 `:processing`
 
 ## 2xx Success
 
@@ -19,7 +18,7 @@
 205 `:reset_content`  
 206 `:partial_content`  
 207 `:multi_status`  
-226 `:im_used`  
+226 `:im_used`
 
 ## 3xx Redirection
 
@@ -29,7 +28,7 @@
 303 `:see_other`  
 304 `:not_modified`  
 305 `:use_proxy`  
-307 `:temporary_redirect`  
+307 `:temporary_redirect`
 
 ## 4xx Client Error
 
@@ -54,7 +53,7 @@
 422 `:unprocessable_entity`  
 423 `:locked`  
 424 `:failed_dependency`  
-426 `:upgrade_required`  
+426 `:upgrade_required`
 
 ## 5xx Server Error
 
@@ -65,4 +64,5 @@
 504 `:gateway_timeout`  
 505 `:http_version_not_supported`  
 507 `:insufficient_storage`  
-510 `:not_extended`  
+510 `:not_extended`
+

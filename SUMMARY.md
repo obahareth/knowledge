@@ -34,9 +34,9 @@
 * [Engineering Management](engineering-management/README.md)
   * [Overview](engineering-management/overview.md)
 * [Software Architecture](software-architecture/README.md)
-  * [Microservices](software-architecture/microservices/README.md).
-  * [Event sourcing](software-architecture/event-sourcing/README.md).
-  * [Serverless](software-architecture/serverless/README.md).
+  * [Microservices](software-architecture/microservices.md)
+  * [Event sourcing](software-architecture/event-sourcing.md)
+  * [Serverless](software-architecture/serverless.md)
 * [Talks](talks/README.md)
   * [Software Architecture](talks/software-architecture/README.md)
     * [An Insider's Look at the Technology That Powers Shopify](talks/software-architecture/an-insiders-look-at-the-technology-that-powers-shopify.md)
@@ -72,10 +72,10 @@
     * [Courses](education/programming-and-computer-science/courses.md)
   * [Design](education/design/README.md)
     * [Courses and Books](education/design/courses-and-books.md)
-  * [Frontend Development](education/frontend-development/README.md)
+  * [Frontend Development](education/frontend-development.md)
 * [Design](design/README.md)
   * [Icons](design/icons/README.md)
-    * [Icon Sets](design/icons/icon-sets.md).
+    * [Icon Sets](design/icons/icon-sets.md)
 * [Arabic Content \| محتوى عربي](arabic/README.md)
   * [Learning](arabic/learning/README.md)
     * [مصادر لتعلم البرمجة و علوم الحاسب](arabic/learning/msadr-ltalm-albrmjh-w-alwm-alhasb.md)

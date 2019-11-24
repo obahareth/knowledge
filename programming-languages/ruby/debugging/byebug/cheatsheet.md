@@ -1,18 +1,16 @@
 # Cheatsheet
 
-*Taken from https://fleeblewidget.co.uk/2014/05/byebug-cheatsheet/*
+_Taken from_ [https://fleeblewidget.co.uk/2014/05/byebug-cheatsheet/](https://fleeblewidget.co.uk/2014/05/byebug-cheatsheet/)
 
 ## Starting Byebug
 
-
-
 If you’re running Byebug on a Rails application in development mode, you no longer need to start the server with `--debugger` – the debugger is on by default.
 
-To get going, simply type `byebug` (or `debugger`) into your source file at the line you’re interested in and run the program. If you’re running it on a Rails application, remember to switch to your terminal window to look at debugger output.
+To get going, simply type `byebug` \(or `debugger`\) into your source file at the line you’re interested in and run the program. If you’re running it on a Rails application, remember to switch to your terminal window to look at debugger output.
 
 **Note:** `byebug` invocations are just method calls, so you can make them conditional:
 
-```rb
+```ruby
 byebug if foo == “bar”
 ```
 
@@ -20,107 +18,99 @@ byebug if foo == “bar”
 
 ## Stopping Again
 
+### q\[uit\] — a.k.a. “exit” _unconditionally_
 
-
-### q[uit] — a.k.a. “exit” *unconditionally*
-
-Quit. It stops the thing running. Also exits your program.Note:** To quit without an ‘are you sure?’ prompt, use `quit unconditionally` (shortened to `q!`)
+Quit. It stops the thing running. Also exits your program.Note:\*\* To quit without an ‘are you sure?’ prompt, use `quit unconditionally` \(shortened to `q!`\)
 
 ### kill
 
-*Really* quit. This uses `kill -9`, for situations where quit just isn’t fierce enough.
+_Really_ quit. This uses `kill -9`, for situations where quit just isn’t fierce enough.
 
 ## Essential Commands
 
+### c\[ontinue\] &lt;line\_number&gt;
 
+Carry on running until program ends, hits a breakpoint or reaches line _line\_number_ \(if specified\).
 
-### c[ontinue] \<line_number>
+### n\[ext\] &lt;number&gt;
 
-Carry on running until program ends, hits a breakpoint or reaches line *line-number* (if specified).
+Go to next line, stepping over function calls. If _number_ specified, go forward that number of lines.
 
-### n[ext] \<number>
+### s\[tep\] &lt;number&gt;
 
-Go to next line, stepping over function calls. If *number* specified, go forward that number of lines.
+Go to next line, stepping into function calls. If _number_ is specified, make that many steps.
 
-### s[tep] \<number>
-
-Go to next line, stepping into function calls. If *number*is specified, make that many steps.
-
-### b[ack]t[race] — a.k.a. “w[here]”
+### b\[ack\]t\[race\] — a.k.a. “w\[here\]”
 
 Display [stack trace](http://en.wikipedia.org/wiki/Stack_trace).
 
-### h[elp] \<command_name>
+### h\[elp\] &lt;command\_name&gt;
 
 Get help. With no arguments, returns a list of all the commands Byebug accepts. When passed the name of a command, gives help on using that command.
 
 ## Breakpoints and Catchpoints
 
-
-
-### b[reak]
+### b\[reak\]
 
 Sets a [breakpoint](http://en.wikipedia.org/wiki/Breakpoint) at the current line. These can be conditional: `break if foo != bar`. Keep reading for more ways to set breakpoints!
 
-### b[reak] \<filename>:\<line_number>
+### b\[reak\] &lt;filename&gt;:&lt;line\_number&gt;
 
-Puts a breakpoint at *line-number* in *filename* (or the current file if *filename* is blank). Again, can be conditional: `b myfile.rb:15 unless my_var.nil?`
+Puts a breakpoint at _line-number_ in _filename_ \(or the current file if _filename_ is blank\). Again, can be conditional: `b myfile.rb:15 unless my_var.nil?`
 
-### b[reak] \<class>(.|#)\<method>
+### b\[reak\] &lt;class&gt;\(.\|\#\)&lt;method&gt;
 
-Puts a breakpoint at the start of the method *method* in class *class*. Accepts an optional condition: `b MyClass#my_method if my_boolean`
+Puts a breakpoint at the start of the method _method_ in class _class_. Accepts an optional condition: `b MyClass#my_method if my_boolean`
 
 ### info breakpoints
 
 List all breakpoints, with status.
 
-### cond[ition] \<number> \<expression>
+### cond\[ition\] &lt;number&gt; &lt;expression&gt;
 
-Add condition *expression* to breakpoint \<number\<>>. If no *expression* is given, removes any conditions from that breakpoint.
+Add condition _expression_ to breakpoint &lt;number&lt;&gt;&gt;. If no _expression_ is given, removes any conditions from that breakpoint.
 
-### del[ete] \<number>
+### del\[ete\] &lt;number&gt;
 
-Deletes breakpoint \<number>. With no arguments, deletes all breakpoints.
+Deletes breakpoint &lt;number&gt;. With no arguments, deletes all breakpoints.
 
-### disable breakpoints \<number>
+### disable breakpoints &lt;number&gt;
 
-Disable (but don’t delete) breakpoint \<number>. With no arguments, disables all breakpoints.
+Disable \(but don’t delete\) breakpoint &lt;number&gt;. With no arguments, disables all breakpoints.
 
-### cat[ch] \<exception> off
+### cat\[ch\] exception&gt; off
 
-Enable or (with *off* argument) disable catchpoint on \<exception>.
+Enable or \(with _off_ argument\) disable catchpoint on &lt;exception&gt;.
 
-### cat[ch]
+### cat\[ch\]
 
 Lists all catchpoints.
 
-### cat[ch] off
+### cat\[ch\] off
 
 Deletes all catchpoints.
 
-### sk[ip]
+### sk\[ip\]
 
 Passes a caught exception back to the application, skipping the catchpoint.
 
 ## Program Stack
 
-
-
-### b[ack]t[race] — a.k.a. “w[here]”
+### b\[ack\]t\[race\] — a.k.a. “w\[here\]”
 
 Display [stack trace](http://en.wikipedia.org/wiki/Stack_trace).
 
-### f[rame] \<frame_number>
+### f\[rame\] &lt;frame\_number&gt;
 
-Moves to \<frame-number> (frame numbers are shown by `bt`). With no argument, shows the current frame.
+Moves to &lt;frame\_number&gt; \(frame numbers are shown by `bt`\). With no argument, shows the current frame.
 
-### up \<number>
+### up &lt;number&gt;
 
-Move up \<number> frames (or 1, if no number specified).
+Move up &lt;number&gt; frames \(or 1, if no number specified\).
 
-### down \<number>
+### down &lt;number&gt;
 
-Move down \<number> frames (or 1, if no number specified).
+Move down &lt;number&gt; frames \(or 1, if no number specified\).
 
 ### info args
 
@@ -130,11 +120,11 @@ Arguments of the current frame.
 
 Local variables in the current stack frame.
 
-### info instance_variables
+### info instance\_variables
 
 Instance variables in the current stack frame.
 
-### info global_variables
+### info global\_variables
 
 Current global variables.
 
@@ -142,61 +132,59 @@ Current global variables.
 
 Local and instance variables of the current frame.
 
-### m[ethod] \<class|module>
+### m\[ethod\] &lt;class\|module&gt;
 
 Shows instance methods of the given class or module.
 
-### m[ethod] i[nstance] \<object>
+### m\[ethod\] i\[nstance\] &lt;object&gt;
 
-Shows methods of \<object>.
+Shows methods of &lt;object&gt;.
 
-### m[ethod] iv \<object>
+### m\[ethod\] iv &lt;object&gt;
 
-Shows instance variables of \<object>.
+Shows instance variables of &lt;object&gt;.
 
-### v[ar] cl[ass]
+### v\[ar\] cl\[ass\]
 
 Shows class variables of self.
 
-### v[ar] co[nst] \<object>
+### v\[ar\] co\[nst\] &lt;object&gt;
 
-Shows constants of \<object>.
+Shows constants of &lt;object&gt;.
 
-### v[ar] g[lobal]
+### v\[ar\] g\[lobal\]
 
-Shows global variables (same as `info global_variables`).
+Shows global variables \(same as `info global_variables`\).
 
-### v[ar] i[nstance] \<object>
+### v\[ar\] i\[nstance\] &lt;object&gt;
 
-Shows instance variables of \<object> (same as `method iv <object`).
+Shows instance variables of \ \(same as `method iv <object>`\).
 
-### v[ar] l[ocal]
+### v\[ar\] l\[ocal\]
 
-Shows local variables (same as `info locals`).
+Shows local variables \(same as `info locals`\).
 
 ## Execution Control
 
+### c\[ontinue\] &lt;line\_number&gt;
 
+Carry on running until program ends, hits a breakpoint or reaches line &lt;line\_number&gt; \(if specified\).
 
-### c[ontinue] \<line_number>
+### n\[ext\] &lt;number&gt;
 
-Carry on running until program ends, hits a breakpoint or reaches line \<line_number> (if specified).
+Go to next line, stepping over function calls. If &lt;number&gt; specified, go forward that number of lines.
 
-### n[ext] \<number>
+### s\[tep\] &lt;number&gt;
 
-Go to next line, stepping over function calls. If \<number> specified, go forward that number of lines.
+Go to next line, stepping into function calls. If &lt;number&gt; is specified, make that many steps.
 
-### s[tep] \<number>
+### fin\[ish\] &lt;num\_frames&gt;
 
-Go to next line, stepping into function calls. If \<number> is specified, make that many steps.
-
-### fin[ish] \<num_frames>
-
-With no argument, run until the current frame returns. Otherwise, run until \<num_frames> have returned.
+With no argument, run until the current frame returns. Otherwise, run until &lt;num\_frames&gt; have returned.
 
 ### irb
 
-Start an IRB session. This will have added commands `cont`, `n` and `step`, but these can’t take arguments (unlike the proper byebug commands of the same name).
+Start an IRB session. This will have added commands `cont`, `n` and `step`, but these can’t take arguments \(unlike the proper byebug commands of the same name\).
 
 ### restart
 
@@ -204,35 +192,31 @@ Restart the program. This also restarts byebug.
 
 ## Threads
 
-
-
-### th[read]
+### th\[read\]
 
 Show current thread.
 
-### th[read] l[ist]
+### th\[read\] l\[ist\]
 
 List all threads.
 
-### th[read] stop \<number>
+### th\[read\] stop &lt;number&gt;
 
-Stop thread number \<number>.
+Stop thread number &lt;number&gt;.
 
-### th[read] resume \<number>
+### th\[read\] resume &lt;number&gt;
 
-Resume thread number \<number>.
+Resume thread number &lt;number&gt;.
 
-### th[read] \<number>
+### th\[read\] &lt;number&gt;
 
-Switch context to thread \<number>.
+Switch context to thread &lt;number&gt;.
 
 ## Display
 
+### e\[val\] — a.k.a. “p” &lt;expression&gt;
 
-
-### e[val] — a.k.a. “p” \<expression>
-
-Evaluate \<expression> and display result. By default, you can also just type the expression without any command and get the same thing (disabled by using `set noautoeval`).
+Evaluate &lt;expression&gt; and display result. By default, you can also just type the expression without any command and get the same thing \(disabled by using `set noautoeval`\).
 
 ### pp
 
@@ -246,77 +230,73 @@ Evaluate an expression with an array result and columnize the output.
 
 Evaluate an expression with an array result, sort and columnize the output.
 
-### disp[lay] \<expression>
+### disp\[lay\] &lt;expression&gt;
 
-Automatically display \<expression> every time the program halts. With no argument, lists the current display expressions.
+Automatically display &lt;expression&gt; every time the program halts. With no argument, lists the current display expressions.
 
 ### info display
 
 List all current display expressions.
 
-### undisp[lay] \<number>
+### undisp\[lay\] &lt;number&gt;
 
-Remove display expression number \<number> (as listed by `info display`). With no argument, cancel all current display expressions.
+Remove display expression number &lt;number&gt; \(as listed by `info display`\). With no argument, cancel all current display expressions.
 
-### disable display \<number>
+### disable display &lt;number&gt;
 
-Stop displaying expression number \<number>. The display expression is kept in the list, though, and can be turned back on again using `enable display `.
+Stop displaying expression number &lt;number&gt;. The display expression is kept in the list, though, and can be turned back on again using `enable display`.
 
-### enable display \<number>
+### enable display &lt;number&gt;
 
-Re-enable previously disabled display expression \<number>.
+Re-enable previously disabled display expression &lt;number&gt;.
 
 ## Controlling Byebug
 
+### hist\[ory\] &lt;num\_commands&gt;
 
+View last &lt;num\_commands&gt; byebug commands \(or all, if no argument given\).
 
-### hist[ory] \<num_commands>
+### save &lt;file&gt;
 
-View last \<num_commands> byebug commands (or all, if no argument given).
+Saves current byebug session options as a script file in &lt;file&gt;.
 
-### save \<file>
+### source &lt;file&gt;
 
-Saves current byebug session options as a script file in \<file>.
+Loads byebug options from a script file at &lt;file&gt;.
 
-### source \<file>
+### set &lt;option&gt;
 
-Loads byebug options from a script file at \<file>
+Change value of byebug option &lt;option&gt;.
 
-### set \<option>
+### show &lt;option&gt;
 
-Change value of byebug option \<option>.
+View current value of byebug option &lt;option&gt;.
 
-### show \<option>
+Options are:
 
-View current value of byebug option \<option>.
-
-Options are: 
-
-- `autoeval`
-- `autoirb`
-- `autolist`
-- `autoreload`
-- `autosave`
-- `basename`
-- `callstyle`
-- `forcestep`
-- `fullpath`
-- `histfile`
-- `histsize`
-- `linetrace`
-- `tracing_plus`
-- `listsize`
-- `post_mortem`
-- `stack_on_error`
-- `testing`
-- `verbose`
-- `width`
+* `autoeval`
+* `autoirb`
+* `autolist`
+* `autoreload`
+* `autosave`
+* `basename`
+* `callstyle`
+* `forcestep`
+* `fullpath`
+* `histfile`
+* `histsize`
+* `linetrace`
+* `tracing_plus`
+* `listsize`
+* `post_mortem`
+* `stack_on_error`
+* `testing`
+* `verbose`
+* `width`
 
 ## Source Files and Code
 
-
-
-### reload	
+### reload
 
 Reload source code.
 
@@ -332,22 +312,23 @@ All currently loaded files.
 
 Shows the current line number and filename.
 
-### l[ist]
+### l\[ist\]
 
 Shows source code after the current point. Keep reading for more list options.
 
-### l[ist] –
+### l\[ist\] –
 
 Shows source code before the current point.
 
-### l[ist] =
+### l\[ist\] =
 
 Shows source code centred around the current point.
 
-### l[ist] \<first>-\<last>
+### l\[ist\] &lt;first&gt;-&lt;list&gt;
 
-Shows all source code from \<first> to \<last> line numbers.
+Shows all source code from &lt;first&gt; to &lt;last&gt; line numbers.
 
-### edit \<file:line_no>
+### edit &lt;file:line\_no&gt;
 
-Edit \<file>. With no arguments, edits the current file.
+Edit &lt;file&gt;. With no arguments, edits the current file.
+
