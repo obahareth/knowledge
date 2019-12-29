@@ -61,6 +61,7 @@
       * [Byebug](programming-languages/ruby/debugging/byebug/README.md)
         * [Cheatsheet](programming-languages/ruby/debugging/byebug/cheatsheet.md)
     * [Libraries](programming-languages/ruby/libraries.md)
+    * [Lazy Enumerators](programming-languages/ruby/lazy-enumerators.md)
     * [Snippets](programming-languages/ruby/snippets.md)
 * [Version Control](version-control/README.md)
   * [Git](version-control/git/README.md)
