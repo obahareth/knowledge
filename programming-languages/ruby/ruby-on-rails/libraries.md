@@ -31,6 +31,10 @@
 * [sequent](https://github.com/zilverline/sequent) - CQRS & event sourcing framework for Ruby.
 * [Eventide](https://eventide-project.org/) - Microservices, Autonomous Services, Service-Oriented Architecture, and Event Sourcing Toolkit for Ruby with Support for Event Store and Postgres.
 
+## Enums
+
+- [Enumerize](https://github.com/brainspec/enumerize) - Enumerated attributes with I18n and ActiveRecord/Mongoid/MongoMapper/Sequel support.
+
 ## Database
 
 * [paranoia](https://github.com/rubysherpas/paranoia) - Overriding ActiveRecord `delete` and `destroy` to act as soft deletion.
