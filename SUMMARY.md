@@ -40,6 +40,7 @@
   * [Microservices](software-architecture/microservices.md)
   * [Event sourcing](software-architecture/event-sourcing.md)
   * [Serverless](software-architecture/serverless.md)
+  * [Centralized Authentication](software-architecture/centralized-authentication.md)
 * [Talks](talks/README.md)
   * [Software Architecture](talks/software-architecture/README.md)
     * [An Insider's Look at the Technology That Powers Shopify](talks/software-architecture/an-insiders-look-at-the-technology-that-powers-shopify.md)
