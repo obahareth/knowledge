@@ -38,6 +38,8 @@
 ## Database
 
 * [paranoia](https://github.com/rubysherpas/paranoia) - Overriding ActiveRecord `delete` and `destroy` to act as soft deletion.
+* [scenic](https://github.com/scenic-views/scenic) - Versioned database views for Rails.
+  * See also ["Effectively Using Materialized Views in Ruby on Rails"](https://pganalyze.com/blog/materialized-views-ruby-rails).
 
 ## Auditing
 
