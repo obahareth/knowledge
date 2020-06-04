@@ -78,6 +78,8 @@
   * [Design](education/design/README.md)
     * [Courses and Books](education/design/courses-and-books.md)
   * [Frontend Development](education/frontend-development.md)
+* [HTTP](http/README.md)
+  * [Status Codes](http/status-codes.md)
 * [Design](design/README.md)
   * [Icons](design/icons/README.md)
     * [Icon Sets](design/icons/icon-sets.md)
