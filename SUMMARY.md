@@ -51,6 +51,7 @@
   * [Regression](machine-learning/regression.md)
   * [Overfitting](machine-learning/overfitting.md)
 * [Programming Languages](programming-languages/README.md)
+  * [Constructs](programming-languages/constructs.md)
   * [Go](programming-languages/go/README.md)
     * [Syntax](programming-languages/go/syntax.md)
   * [Ruby](programming-languages/ruby/README.md)
