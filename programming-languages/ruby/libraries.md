@@ -2,6 +2,10 @@
 
 Libraries that help you build and scale Ruby \(and Rails\) applications.
 
+## Printing \(in console\)
+
+* [awesome\_print](https://github.com/awesome-print/awesome_print) - Pretty print your Ruby objects with style -- in full color and with proper indentation. 
+
 ## Resiliency and Failure
 
 * [Semian](https://github.com/Shopify/semian) - Resiliency toolkit for failing fast \(e.g. Circuit breaker and bulk heading\).

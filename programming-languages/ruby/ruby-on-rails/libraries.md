@@ -33,7 +33,7 @@
 
 ## Enums
 
-- [Enumerize](https://github.com/brainspec/enumerize) - Enumerated attributes with I18n and ActiveRecord/Mongoid/MongoMapper/Sequel support.
+* [Enumerize](https://github.com/brainspec/enumerize) - Enumerated attributes with I18n and ActiveRecord/Mongoid/MongoMapper/Sequel support.
 
 ## Database
 
@@ -56,7 +56,7 @@
 
 ## Views
 
-* [Draper](https://github.com/drapergem/draper) - Decorators and view models for Rails applications.
+* [view\_component](https://github.com/github/view_component) - A framework for building reusable, testable & encapsulated view components in Ruby on Rails.
 
 ## PDF
 
