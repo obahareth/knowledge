@@ -25,6 +25,8 @@
   * [Web Bundlers](apps-and-tools/web-bundlers/README.md)
     * [Webpack](apps-and-tools/web-bundlers/webpack.md)
 * [DevOps](devops/README.md)
+  * [Databases](devops/databases.md)
+  * [Estimating Connections](devops/estimating-connections.md)
   * [Kubernetes](devops/kubernetes/README.md)
     * [Terminology](devops/kubernetes/terminology.md)
     * [kubectl Cheatsheet](devops/kubernetes/kubectl-cheatsheet.md)
