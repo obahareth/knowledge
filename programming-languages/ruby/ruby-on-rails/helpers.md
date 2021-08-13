@@ -24,7 +24,7 @@
 ## Migrations
 
 * [strong\_migrations](https://github.com/ankane/strong_migrations) - Detect potentially dangerous migrations and prevent them from running by default, along with instructions on safer ways to do what you want.
-* [native_enum](https://github.com/iangreenleaf/native_enum) and [activerecord-postgres_enum](https://github.com/bibendi/activerecord-postgres_enum) for backing Rails enums (which are application-only) by database enums, so people looking at the database can actually understand what all those integer values actually mean.
+* [native\_enum](https://github.com/iangreenleaf/native_enum) and [activerecord-postgres\_enum](https://github.com/bibendi/activerecord-postgres_enum) for backing Rails enums \(which are application-only\) by database enums, so people looking at the database can actually understand what all those integer values actually mean.
 
 ## View Helpers
 

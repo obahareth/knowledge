@@ -15,7 +15,7 @@
   * [Google Chrome](apps-and-tools/google-chrome/README.md)
     * [Theme](apps-and-tools/google-chrome/theme.md)
     * [Extensions](apps-and-tools/google-chrome/extensions.md)
-  * [Hyper](apps-and-tools/hyper/README.md)
+  * [iTerm 2](apps-and-tools/hyper/README.md)
     * [Theme](apps-and-tools/hyper/theme.md)
   * [Fish](apps-and-tools/fish/README.md)
     * [Plugins](apps-and-tools/fish/plugins.md)

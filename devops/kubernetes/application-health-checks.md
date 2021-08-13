@@ -6,8 +6,9 @@ Used to know when a **container is ready to accept traffic**. It can be configur
 
 Types of readiness probes:
 
-- HTTP probe.
+* HTTP probe.
 
 ## Liveness Probe
 
 Periodic check used be Kubernetes to make sure the **container is still healthy**.
+

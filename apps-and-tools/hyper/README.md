@@ -1,2 +1,2 @@
-# Hyper
+# iTerm 2
 
