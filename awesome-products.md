@@ -8,7 +8,7 @@
 
 ### Task Management
 
-* [Todoist](https://todoist.com/) - The to do worklist to organize work & life.
+* [TickTick](https://ticktick.com) - The to do worklist to organize work & life.
 
 ### Blogging
 
@@ -17,6 +17,7 @@
 ### Project Management
 
 * [Trello](https://trello.com/) - Trello lets you work more collaboratively and get more done.
+* [Linear](https://linear.app/) - The issue tracking tool you'll enjoy using
 * [JIRA](https://www.atlassian.com/software/jira) - Issue & project tracking software.
 * [Basecamp](https://basecamp.com/) - Project management and team communication software.
 * [Unito](https://unito.io/) - Integrate and sync project management tools \(Trello, JIRA, Asana, and more\).
@@ -25,6 +26,14 @@
 
 * [Figma](https://www.figma.com/) - Where teams design together.
 * [Whimsical](https://whimsical.com/) - The Visual Workspace, communicate visually at the speed of thought.
+
+### Sketching
+
+* [Excalidraw](https://excalidraw.com/) - Hand-drawn look & feel
+
+### Whiteboarding
+
+* [Miro](https://miro.com/) - The online collaborative whiteboard platform to bring teams together, anytime, anywhere.
 
 ### Automation
 
@@ -39,6 +48,10 @@
 
 * [Canny](https://canny.io) - Track feedback to build better products.
 
+### Internal Tools
+
+* [Retool](https://retool.com/) - Build internal tools, remarkably fast
+
 ### Scheduling
 
 * [Calendly](https://calendly.com) - Calendly helps you schedule meetings without the back-and-forth emails.
@@ -48,6 +61,7 @@
 ### Calls / Confrencing
 
 * [Zoom](https://zoom.us) - Cloud video conferencing and simple online meetings.
+* [Google Meet](https://apps.google.com/meet/?hl=en) - Premium video meetings for everyone.
 * [Discord](https://discordapp.com) - All-in-one voice and text chat for gamers that's free, secure, and works on both your desktop and phone.
 
 ### Forms
