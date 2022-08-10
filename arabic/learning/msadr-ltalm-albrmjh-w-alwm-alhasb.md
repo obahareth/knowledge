@@ -20,7 +20,5 @@
 
 ## المصادر
 
-{% embed url="https://twitter.com/Twi\_Hajar/status/1165156126868086784" %}
-
-
+{% embed url="https://twitter.com/Twi_Hajar/status/1165156126868086784" %}
 

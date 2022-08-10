@@ -14,7 +14,7 @@
 
 ### **قرارت صعبة**
 
-### **حتضطر تاخذ قرارات صعبة** 
+### **حتضطر تاخذ قرارات صعبة** ****
 
 ## **اسعى انك تعمل الحاجات هذه**
 
@@ -45,8 +45,8 @@
 ### **كتب**
 
 * [**Leading Snowflakes**](https://leadingsnowflakes.com/)  **- مليء بنصائح عملية على المهام اليومية لمدير مطورين.**
-* [**The Manager’s Path**](https://www.amazon.com/dp/B06XP3GJ7F/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)  **- دليل لمراحل مختلفة من المسؤولية و التعقيد في إدارة المبرمجين و إدارة مدراء المبرمجين.**
-* [**High Output Management**](https://www.amazon.com/dp/B015VACHOK/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)  **- كتاب رهيب عن تشغيل و "تضخيم؟" الشركات التقنية.**
+* [**The Manager’s Path**](https://www.amazon.com/dp/B06XP3GJ7F/ref=dp-kindle-redirect?\_encoding=UTF8\&btkr=1)  **- دليل لمراحل مختلفة من المسؤولية و التعقيد في إدارة المبرمجين و إدارة مدراء المبرمجين.**
+* [**High Output Management**](https://www.amazon.com/dp/B015VACHOK/ref=dp-kindle-redirect?\_encoding=UTF8\&btkr=1)  **- كتاب رهيب عن تشغيل و "تضخيم؟" الشركات التقنية.**
 
 ### **مواقع**
 
@@ -58,7 +58,6 @@
 * [**Rethinking how we interview in Microsoft’s Developer Division**](https://blog.usejournal.com/rethinking-how-we-interview-in-microsofts-developer-division-8f404cfd075a) **- مقالة عظيمة عن إجراءات مايكروسوف الجديدة للتوظيف.**
 * [**Undervalued Software Engineering Skills: Writing Well**](https://blog.pragmaticengineer.com/on-writing-well/) **- مقالة عن أهمية الكتابة الجيدة في مجال التطوير.**
 
-### **نشرات بريدية \(إيميل\)**
+### **نشرات بريدية (إيميل)**
 
 * [**Software Lead Weekly**](http://softwareleadweekly.com/) **- ايميل أسبوعي للمهتمين في ما يخص الناس, الثقافة, و الإدارة؟**
-

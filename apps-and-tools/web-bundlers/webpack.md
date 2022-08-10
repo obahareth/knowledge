@@ -4,7 +4,7 @@
 
 #### Be very careful with importing large libraries
 
-Trying to compile large libraries \(like react-plotly or PDF libraries\) can take your Webpack compile from seconds to 10 minutes+. If a package is slowing down your compile, consider using a CDN version. We simply used script tags, but there are Webpack plugins that can help with that too:
+Trying to compile large libraries (like react-plotly or PDF libraries) can take your Webpack compile from seconds to 10 minutes+. If a package is slowing down your compile, consider using a CDN version. We simply used script tags, but there are Webpack plugins that can help with that too:
 
 * [webpack-cdn-plugin](https://www.npmjs.com/package/webpack-cdn-plugin).
 * [dynamic-cdn-webpack-plugin](https://www.npmjs.com/package/dynamic-cdn-webpack-plugin).
@@ -17,7 +17,7 @@ Google actually has a [nice repository](https://github.com/GoogleChromeLabs/webp
 
 #### Inspect your bundle with Webpack bundle analyzer
 
-![](https://cdn-images-1.medium.com/max/800/0*TewqripGyXujWGJs.png)
+![](https://cdn-images-1.medium.com/max/800/0\*TewqripGyXujWGJs.png)
 
 [Webpack Bundle Analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer) is extremely helpful to see what exactly is going into your bundle. In the screenshot above, you’ll notice that moment.js has lots of localization files that your app probably doesn’t need. Webpack Bundle Analyzer can help you easily spot these issues.
 
@@ -31,7 +31,7 @@ We had imported a very simple package called [hex-rgb](https://github.com/sindre
 
 In your webpack config, your babel loader’s exclude field probably looks like this: `/node_modules/` . We need to make a regex that excludes node\_modules except the specific ones that should be transpiled:
 
-```text
+```
 // Exclude all node modules except hex-rgb and another-package
 /node_modules\/(?![hex\-rgb|another\-package])/
 ```
@@ -44,16 +44,16 @@ Follow [this issue](https://github.com/babel/babel-loader/issues/171) from the b
 
 [Browserslist](https://github.com/browserslist/browserslist) lets you specify which browsers to transpile for.
 
-```text
+```
 > 1%
 ie >= 8
 ```
 
 This simple configuration targets browsers with usage more than 1% global usage, and IE versions 8 and above.
 
-#### Use babel.config.js over .babelrc \(for Babel ≥ 7.0\)
+#### Use babel.config.js over .babelrc (for Babel ≥ 7.0)
 
-Favor using `babel.config.js` to [configure Babel](https://babeljs.io/docs/en/configuration) over `.babelrc` . If you want to transpile `node_modules` \(which is now becoming a very common case with webapps\), then you should use `babel.config.js` .
+Favor using `babel.config.js` to [configure Babel](https://babeljs.io/docs/en/configuration) over `.babelrc` . If you want to transpile `node_modules` (which is now becoming a very common case with webapps), then you should use `babel.config.js` .
 
 `.babelrc` can be overridden by another `.babelrc` belonging to a node\_module that you’re transpiling and that can lead to all sorts of weird issues.
 
@@ -61,18 +61,17 @@ Favor using `babel.config.js` to [configure Babel](https://babeljs.io/docs/en/co
 
 1. Change your [webpack-dev-server config](https://webpack.js.org/configuration/dev-server/) to this
 
-```text
+```
 devServer: {
   noInfo: true,
   stats: 'minimal'
 }
 ```
 
-2. Add [WebpackBar](https://github.com/nuxt/webpackbar) to get much less-verbose, friendlier, and more concise output.
+2\. Add [WebpackBar](https://github.com/nuxt/webpackbar) to get much less-verbose, friendlier, and more concise output.
 
-![](https://cdn-images-1.medium.com/max/800/1*3CqzwcXgMpT-42e22OMu7Q.png)
+![](https://cdn-images-1.medium.com/max/800/1\*3CqzwcXgMpT-42e22OMu7Q.png)
 
 Note: The first configuration is meant to be combined with Webpack Bundle Analyzer, as it suppresses console output for things related to your bundle that Webpack Bundle Analyzer already shows. If you’re not using Webpack Bundle Analyzer, don’t apply the first step.
 
-####  
-
+#### &#x20;

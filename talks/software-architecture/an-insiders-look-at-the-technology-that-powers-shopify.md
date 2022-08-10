@@ -1,8 +1,8 @@
 # An Insider's Look at the Technology That Powers Shopify
 
-{% embed url="https://www.youtube.com/watch?v=Th7XN\_\_ltyc" %}
+{% embed url="https://www.youtube.com/watch?v=Th7XN__ltyc" %}
 
-[Talk link](https://www.youtube.com/watch?v=Th7XN__ltyc).
+[Talk link](https://www.youtube.com/watch?v=Th7XN\_\_ltyc).
 
 ## Quick Summary
 
@@ -20,7 +20,7 @@ Watched this talk because I thought it was more software architecture related bu
 
 **3D Models**
 
-* Shopify is working with the [Khronos Group](https://khronos.org) \(an open standards body\) to advance 3D model formats for the internet.
+* Shopify is working with the [Khronos Group](https://khronos.org) (an open standards body) to advance 3D model formats for the internet.
 
 ## Security & Privacy
 
@@ -29,14 +29,14 @@ Watched this talk because I thought it was more software architecture related bu
 * The biggest threat to a merchant's data is compromised credentials, mainly from phishing emails.
 * New identity vault launched: [https://accounts.shopfiy.com](https://accounts.shopfiy.com)
   * One account and one setting for everything you do on Shopify.
-  * Supports new [Web Authentication API](https://www.w3.org/TR/webauthn/) \(WebAuthn, [nice guide here](https://webauthn.guide/)\).
-    * Allows Shopify servers to interact with secure identity meechanisms on devices \(TouchID, Windows Hello, etc.\)
-* Additional support on data ownership and privacy through new webhooks and APIs 
+  * Supports new [Web Authentication API](https://www.w3.org/TR/webauthn/) (WebAuthn, [nice guide here](https://webauthn.guide/)).
+    * Allows Shopify servers to interact with secure identity meechanisms on devices (TouchID, Windows Hello, etc.)
+* Additional support on data ownership and privacy through new webhooks and APIs&#x20;
   * Data request and deletion API.
   * Greater app permission transparency.
 * Ranking and monitoring apps on Shopify platform to make sure that their partners are building applications that respect data on behalf of the merchant.
 * Processing more than 10 billion events everyday, which totals to 10 petabytes of data.
-* Network of 3000+ security engineers who have been paid out more than 1 million USD to find and report vulnerabilities \(on test shops\).
+* Network of 3000+ security engineers who have been paid out more than 1 million USD to find and report vulnerabilities (on test shops).
 * Increasing investment on [metafields](https://help.shopify.com/en/manual/products/metafields) on Shopify platform.
 
 ## Extensibility
@@ -57,6 +57,5 @@ Watched this talk because I thought it was more software architecture related bu
 * Some merchants are selling more than 8000 orders a minute.
 * Speed matters more than scale for most merchants.
 * Two big performance wins:
-  * Upgrade to image delivery service by using WebP \(30% smaller and faster\).
+  * Upgrade to image delivery service by using WebP (30% smaller and faster).
   * New Liquid renderer that's 7x faster.
-
